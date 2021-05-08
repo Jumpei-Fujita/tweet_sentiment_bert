@@ -2,7 +2,7 @@
 
 ## データセット 
 データセットは[tweet_sentiment_extraction](https://www.kaggle.com/c/tweet-sentiment-extraction/overview)を用いた<br>
-<img src="https://github.com/Jumpei-Fujita/tweet_sentiment_bert/blob/main/dataset.png" width="70%"><br>
+<img src="https://github.com/Jumpei-Fujita/tweet_sentiment_bert/blob/main/dataset.png" width="80%"><br>
 
 ## 前処理
 訓練データのうち1000件を検証データに用いた。また、特殊文字の除去、@からスタートする文字列の除去などを行った。<br>
