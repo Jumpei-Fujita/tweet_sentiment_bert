@@ -1,6 +1,7 @@
 # tweet_sentiment_bert
 
 ## データセット 
+データセットは[tweet_sentiment_extraction](https://www.kaggle.com/c/tweet-sentiment-extraction/overview)を用いた<br>
 <img src="https://github.com/Jumpei-Fujita/tweet_sentiment_bert/blob/main/dataset.png" width="70%"><br>
 
 ## 前処理
