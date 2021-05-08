@@ -25,9 +25,9 @@ BERTをファインチューニングし、感情分析モデルを構築した�
 
 ## 結果
 ### 1.学習の様子
-訓練時のlossの推移
+訓練時のlossの推移<br>
 <img src="https://github.com/Jumpei-Fujita/tweet_sentiment_bert/blob/main/graph.png" width="70%"><br>
-訓練時の検証ようデータに対する正解率の推移
+訓練時の検証ようデータに対する正解率の推移<br>
 <img src="https://github.com/Jumpei-Fujita/tweet_sentiment_bert/blob/main/acc.png" width="70%"><br>
 訓練時のlossの推移は移動平均を取っている。
 若干過学習が起こっているため、early stoppingなどを用いる必要が考えられる。
