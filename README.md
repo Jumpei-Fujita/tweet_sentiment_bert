@@ -1,7 +1,7 @@
 # tweet_sentiment_bert
 
 ## データセット 
-<img src="https://github.com/Jumpei-Fujita/tweet_sentiment_bert/blob/main/dataset.png" width="50%"><br>
+<img src="https://github.com/Jumpei-Fujita/tweet_sentiment_bert/blob/main/dataset.png" width="70%"><br>
 
 ## 前処理
 訓練データのうち1000件を検証データに用いた。また、特殊文字の除去、@からスタートする文字列の除去などを行った。<br>
